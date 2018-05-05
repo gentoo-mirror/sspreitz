@@ -1,0 +1,11 @@
+DEFINED_PHASES=install
+DESCRIPTION=The Eclipse-based LDAP browser and directory client
+EAPI=6
+HOMEPAGE=https://directory.apache.org/studio/
+KEYWORDS=amd64
+LICENSE=Apache-2.0
+RDEPEND=virtual/jdk
+RESTRICT=binchecks strip
+SLOT=0
+SRC_URI=http://mirror.switch.ch/mirror/apache/dist/directory/studio/2.0.0.v20170904-M13/ApacheDirectoryStudio-2.0.0.v20170904-M13-linux.gtk.x86_64.tar.gz
+_md5_=8d6695f0cbd56b4b7aa4d1e86e5c6351
