@@ -1,0 +1,8 @@
+DEFINED_PHASES=-
+DESCRIPTION=Meta Package for Numix Project Themes
+EAPI=6
+HOMEPAGE=http://numixproject.org
+LICENSE=GPLv3
+RDEPEND=x11-themes/numix-icon-theme x11-themes/numix-icon-theme-circle x11-themes/numix-icon-theme-square x11-themes/numix-cursor-theme x11-themes/numix-gtk-theme
+SLOT=0
+_md5_=4bd0b06b33e9bd43538fcd4942f57b00
