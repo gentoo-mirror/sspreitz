@@ -1,5 +1,5 @@
 app-editors/ApacheDirectoryStudio-bin 2.0.0: The Eclipse-based LDAP browser and directory client
-app-editors/atom-bin 1.25.0 1.25.1 1.26.1 1.28.0: A hackable text editor for the 21st Century
+app-editors/atom-bin 1.25.0 1.25.1 1.26.1 1.28.0 1.29.0: A hackable text editor for the 21st Century
 app-emulation/vagrant-bin 2.0.4: A tool for building and distributing development environments
 net-im/yakyak-bin 1.5.0: Desktop chat client for Google Hangouts
 net-misc/terraform-bin 0.11.7: Write, Plan, and Create Infrastructure as Code
