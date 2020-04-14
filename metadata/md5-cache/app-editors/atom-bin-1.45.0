@@ -1,0 +1,12 @@
+DEFINED_PHASES=install postinst postrm prepare unpack
+DEPEND=>=app-arch/rpm2targz-9.0.0.3g
+DESCRIPTION=A hackable text editor for the 21st Century
+EAPI=7
+HOMEPAGE=https://atom.io
+KEYWORDS=amd64
+LICENSE=MIT
+RESTRICT=mirror strip
+SLOT=0
+SRC_URI=https://github.com/atom/atom/releases/download/v1.45.0/atom.x86_64.rpm -> atom-bin-1.45.0.x86_64.rpm
+_eclasses_=estack	686eaab303305a908fd57b2fd7617800	eutils	fcb2aa98e1948b835b5ae66ca52868c5	rpm	c1d552831d4ee9c7bb82c35545c264c8	xdg-utils	ff2ff954e6b17929574eee4efc5152ba
+_md5_=155fe7d6ab8b8eebe3782daf57a32736
