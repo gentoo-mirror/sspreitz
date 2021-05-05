@@ -1,0 +1,10 @@
+DEFINED_PHASES=install
+DESCRIPTION=Write, Plan, and Create Infrastructure as Code
+EAPI=6
+HOMEPAGE=https://www.terraform.io/
+KEYWORDS=amd64
+LICENSE=MPL-2.0
+RESTRICT=binchecks strip
+SLOT=0
+SRC_URI=https://releases.hashicorp.com/terraform/0.12.21/terraform_0.12.21_linux_amd64.zip
+_md5_=c65bf877bae4d0a5ab6dfcf3aa474951

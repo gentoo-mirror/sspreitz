@@ -1,0 +1,14 @@
+DEFINED_PHASES=install postinst postrm
+DESCRIPTION=The Eclipse-based LDAP browser and directory client
+EAPI=7
+HOMEPAGE=https://directory.apache.org/studio/
+INHERIT=xdg-utils
+IUSE=gnome
+KEYWORDS=amd64
+LICENSE=Apache-2.0
+RDEPEND=virtual/jdk gnome? ( gnome-base/gnome )
+RESTRICT=binchecks strip
+SLOT=0
+SRC_URI=https://mirror.init7.net/apache/directory/studio/2.0.0.v20200411-M15/ApacheDirectoryStudio-2.0.0.v20200411-M15-linux.gtk.x86_64.tar.gz
+_eclasses_=xdg-utils	ff2ff954e6b17929574eee4efc5152ba
+_md5_=c406b77748d458be8b74e37f8764a455

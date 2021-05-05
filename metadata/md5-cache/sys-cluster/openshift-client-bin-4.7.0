@@ -1,0 +1,11 @@
+DEFINED_PHASES=install
+DESCRIPTION=The Community Distribution of Kubernetes that powers Red Hat OpenShift
+EAPI=7
+HOMEPAGE=https://www.okd.io
+IUSE=kubectl
+KEYWORDS=amd64
+LICENSE=Apache-2.0
+RESTRICT=binchecks strip
+SLOT=4
+SRC_URI=https://github.com/openshift/okd/releases/download/4.7.0-0.okd-2021-04-11-124433/openshift-client-linux-4.7.0-0.okd-2021-04-11-124433.tar.gz
+_md5_=afa8cab61f49032fb02c4063d02c44e6

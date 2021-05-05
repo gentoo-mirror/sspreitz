@@ -1,0 +1,11 @@
+DEFINED_PHASES=-
+DEPEND=sys-libs/ncurses
+DESCRIPTION=NCurses Disk Usage
+EAPI=7
+HOMEPAGE=https://dev.yorhel.nl/ncdu
+KEYWORDS=amd64 x86
+LICENSE=MIT
+RDEPEND=sys-libs/ncurses
+SLOT=0
+SRC_URI=https://dev.yorhel.nl/download/ncdu-1.15.1.tar.gz
+_md5_=eb658095e3a2d1f82d2eeab5de185399
