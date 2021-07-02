@@ -11,5 +11,5 @@ PROPERTIES=live
 RDEPEND=>=net-libs/nodejs-12.16[npm] >=dev-lang/python-3 dev-vcs/git sys-apps/lsb-release x11-libs/libXScrnSaver app-crypt/libsecret sys-auth/polkit x11-themes/hicolor-icon-theme x11-misc/xdg-utils
 RESTRICT=network-sandbox strip
 SLOT=0
-_eclasses_=git-r3	cc875b0c1e9b3bdac1af0f82f3ba29da	xdg-utils	ff2ff954e6b17929574eee4efc5152ba
+_eclasses_=git-r3	cc875b0c1e9b3bdac1af0f82f3ba29da	xdg-utils	27f9a2f19502b925ac117bd657aa2979
 _md5_=3521fdf3584832ef4f932fca41ec9d7f
