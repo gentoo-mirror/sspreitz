@@ -10,5 +10,5 @@ RDEPEND=virtual/jdk gnome? ( gnome-base/gnome )
 RESTRICT=binchecks strip
 SLOT=0
 SRC_URI=https://mirror.init7.net/apache/directory/studio/2.0.0.v20200411-M15/ApacheDirectoryStudio-2.0.0.v20200411-M15-linux.gtk.x86_64.tar.gz
-_eclasses_=xdg-utils	4f29a8b760a594a212abe9c2ba957c31
+_eclasses_=xdg-utils	fffb53a53cf17c9c0c998a3c0a590c7e
 _md5_=c406b77748d458be8b74e37f8764a455
