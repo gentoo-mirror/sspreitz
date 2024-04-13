@@ -9,5 +9,5 @@ LICENSE=MIT
 RESTRICT=mirror strip
 SLOT=0
 SRC_URI=https://github.com/atom/atom/releases/download/v1.49.0/atom.x86_64.rpm -> atom-bin-1.49.0.x86_64.rpm
-_eclasses_=estack	c61c368a76fdf3a82fdf8dbaebea3804	rpm	528663355249513309c74d7775936940	xdg-utils	baea6080dd821f5562d715887954c9d3
+_eclasses_=estack	c61c368a76fdf3a82fdf8dbaebea3804	rpm	7828cd38ff559545ca52f92064d0f8f4	xdg-utils	baea6080dd821f5562d715887954c9d3
 _md5_=155fe7d6ab8b8eebe3782daf57a32736
