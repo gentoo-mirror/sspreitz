@@ -13,8 +13,3 @@ sys-cluster/openshift-client-bin 1.5.1 3.6.1 3.7.2 3.9.0 3.10.0 3.11.0 4.7.0: Th
 sys-cluster/openshift-install-bin 4.7.0: The Community Distribution of Kubernetes that powers Red Hat OpenShift
 sys-fs/ncdu 1.15.1-r1: NCurses Disk Usage
 x11-themes/numix 9999: Meta Package for Numix Project Themes
-x11-themes/numix-cursor-theme 9999: Numix Project cursor icon theme
-x11-themes/numix-gtk-theme 9999: Numix Project GTK theme
-x11-themes/numix-icon-theme 9999: Numix Project icon theme
-x11-themes/numix-icon-theme-circle 9999: Numix Circle Project icon theme
-x11-themes/numix-icon-theme-square 9999: Numix Square Project icon theme
